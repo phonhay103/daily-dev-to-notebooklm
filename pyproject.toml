@@ -1,0 +1,13 @@
+[project]
+name = "daily-dev-to-notebooklm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "browser-use>=0.1.40",
+    "firecrawl-py>=2.5.4",
+    "langchain-google-genai>=2.1.4",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.0",
+]
